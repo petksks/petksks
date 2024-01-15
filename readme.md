@@ -9,5 +9,5 @@
     "LinkedIn": "[Peter Sederblad](https://www.linkedin.com/in/peter-sederblad)",
     "Email": "[Peter.Sedberg@gmail.com](mailto:Peter.Sedberg@gmail.com)"
   },
-  "funFact": "This profile is formatted for fun!"
+  "funFact": "This document is written in a JSON structure format"
 }
